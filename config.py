@@ -1,6 +1,6 @@
 import os
 
-my_bot_token = os.environ['BOT_TOKEN']
+my_bot_token = "6332838288:AAFUCr24eqPXfdAcH0BtAYRzO5LDKvTDDBo"
 API_BASE_URL = "https://api.gamepromo.io/promo/"
 EVENTS_DELAY = 20000
 HEADERS_JSON = {
